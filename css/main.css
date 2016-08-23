@@ -1,0 +1,40 @@
+/*TEXTO*/
+.orange{
+    color: #F05F40;
+}
+/*BACKGROUOND*/
+.naranja{
+    background-color: #F05F40;
+}
+.negro{
+    background-color: black;
+}
+.blanco{
+    background-color: white;
+}
+/*GENERAL*/
+hr{
+    width: 5%;
+    border: .2em solid;
+}
+.orangeline{
+    border-color:  #F05F40;
+}
+/*HEADER*/
+nav{
+    opacity: .6;
+}
+header{
+    background-image: url("../img/header.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20%;
+}
+header span{
+	border:.2em solid white;
+}
+/*BODY*/
+#whiteline{
+    border-color:  white;
+}
+
