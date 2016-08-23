@@ -36,5 +36,12 @@ header span{
 /*BODY*/
 #whiteline{
     border-color:  white;
+} 
+img{
+    width: 35%;
+}
+/*FOOTER*/
+footer img{
+    width: 10%;
 }
 
