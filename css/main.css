@@ -3,10 +3,6 @@
     color: #F05F40;
 }
 /*BACKGROUONDS*/
-* {
-    background-repeat: no-repeat;
-    background-size: cover;
-}
 .naranja{
     background-color: #F05F40;
 }
@@ -57,7 +53,7 @@ span{
     opacity: 0;
 }
 .picture .naranja:hover{
-    opacity: .7;
+    opacity: .8;
 }
 #foto1{
     background-image: url("../img/1.jpg");

@@ -2,6 +2,9 @@
 a{
    text-decoration: none;
 }
+a:hover{
+    text-decoration: none;
+}
 li{
     display: inline-block;
 }
@@ -46,7 +49,7 @@ li{
 	padding-right: 5%;
 }
 .mg-0{
-	margin: 0;
+	margin: 0%;
 }
 .mb-1{
 	margin-bottom: 1%;
@@ -96,7 +99,7 @@ li{
 .text-right{
 	text-align: right;
 }
-
+/*TEXTO*/
 .white{
 	color: white;
 }
@@ -106,26 +109,11 @@ li{
 .black{
     color: black;
 }
-.green{
- 	color: #0dc0c0;
-}
-
-.active {
-	color: #0dc0c0;
-}
-
-.a-none-decoration{
-	text-decoration: none;
-}
-.bg-gray{
-	background-color: rgb(244, 244, 244);
-}
-.bg-img-block {
+*{
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
 }
-
 .pull-left {
 	float: left;
 }
